@@ -2,6 +2,7 @@
     "Random",
     "Random (Standard Only)",
     "AquaDome",
+    "AquaDome (Salty Shallows)",
     "Beckwith Park",
     "Beckwith Park (Midnight)",
     "Beckwith Park (Snowy)",
@@ -25,6 +26,7 @@
     "Mannfield",
     "Mannfield (Dusk)",
     "Mannfield (Night)",
+    "Mannfield (Snowy)",
     "Mannfield (Stormy)",
     "Neo Tokyo",
     "Neo Tokyo (Comic)",
@@ -62,7 +64,6 @@
     "Octagon",
     "Pillars",
     "Underpass",
-    "Utopia Retro",
-    "Mannfield (Snowy)"
+    "Utopia Retro"
 ]
 
