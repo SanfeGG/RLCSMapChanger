@@ -17,40 +17,14 @@
 
 ---
 
-## 📥 Instalación
-
-### Requisitos
-
-- **Python 3.8 o superior**.
-- Librerías necesarias: `customtkinter`, `pyautogui`, `Pillow`, `requests`, `keyboard`, `tktooltip`, `sv_ttk`.
-
-Instálalas con:
-
-```bash
-pip install customtkinter pyautogui Pillow requests keyboard tktooltip sv_ttk
-```
-
-### Pasos
-
-1. **Descarga el proyecto**  
-   Clona el repositorio o descarga los archivos desde [GitHub](https://github.com/SanfeGG/RLCSMapChanger).
-
-2. **Crear el ejecutable (opcional)**  
-   Genera un archivo `.exe` con el siguiente comando en el terminal:
+## 🎮 Creación
 
    ```bash
    pyinstaller --icon=_internal/ico/icon.ico --noconsole --name="RLCS Map Changer 2.1" RLCSMapChangerBySanfeGGV2.1.py
    ```
 
-3. **Reemplazar carpeta `_internal`**  
+  **Reemplazar carpeta `_internal`**  
    Copia la carpeta `_internal` en el directorio raíz del proyecto. Asegúrate de conservar su estructura original.
-
-4. **Ejecutar la aplicación**  
-   Ejecuta el archivo generado o inicia el programa desde el script principal:
-
-   ```bash
-   python RLCSMapChangerBySanfeGGV2.1.py
-   ```
 
 ---
 
